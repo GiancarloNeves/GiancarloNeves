@@ -1,16 +1,6 @@
 # 👋 Olá, eu sou **Giancarlo Peixoto**
 
-Sou estudante de Engenharia apaixonado por **desenvolvimento web e software**.
-Aqui no GitHub partilho meus projetos práticos, estudos e experimentos.
-Busco oportunidades em **estágios ou part-time na área de TI**, onde possa aplicar e expandir minhas habilidades.
-
----
-
-## 🔭 Atualmente
-
-* Estudando e praticando: **Desenvolvimento Web (React, JS, HTML, CSS)**
-* Aperfeiçoando conhecimento em: **C, C++, SQL, Linux**
-* Procurando: **estágios ou oportunidades de trabalho part-time em TI**
+Sou estudante de Engenharia e busco oportunidades em **estágios ou part-time na área de TI**, onde possa aplicar e expandir minhas habilidades.
 
 ---
 
@@ -62,13 +52,3 @@ Descrição breve do projeto nº2 (em breve).
 * 💼 LinkedIn: [linkedin.com/in/giancarlo-peixoto-7b6331380](https://www.linkedin.com/in/giancarlo-peixoto-7b6331380/)
 
 ---
-
-## 📈 Estatísticas do GitHub
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarloNeves\&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarloNeves\&show_icons=true\&count_private=true)
-
----
-
-✨ Obrigado por visitar o meu perfil!
-Fique à vontade para explorar meus repositórios ou entrar em contato comigo.
