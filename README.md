@@ -38,7 +38,7 @@ Sou estudante de Engenharia e busco oportunidades em **estágios ou part-time na
 Versão interativa do clássico Conecta 4, desenvolvida totalmente em React.
 O jogo traz um visual renovado, animações suaves e diferentes modos de jogo — incluindo um modo especial com regras extras e partidas contra BOT.
 
-Aceda clicando no titulo ou pelo link https://giancarloneves.github.io/conecta4/](https://giancarloneves.github.io/conecta4/
+Teste por você mesmo clicando no titulo ou pelo link https://giancarloneves.github.io/conecta4/
 
 ### [Projeto 2](https://github.com/GiancarloNeves/Projeto2)
 
