@@ -32,12 +32,11 @@ Sou estudante de Engenharia e busco oportunidades em **estágios ou part-time na
 
 ## 🌟 Projetos em destaque
 
-> Em breve vou postar dois projetos completos aqui no GitHub.
-> Cada repositório terá README próprio com instruções de execução, imagens e demonstrações.
 
-### [Projeto 1](https://github.com/GiancarloNeves/Projeto1)
+### [Projeto 1](https://giancarloneves.github.io/conecta4/)
 
-Descrição breve do projeto nº1 (em breve).
+Versão interativa do clássico Conecta 4, desenvolvida totalmente em React.
+O jogo traz um visual renovado, animações suaves e diferentes modos de jogo — incluindo um modo especial com regras extras e partidas contra BOT.
 
 ### [Projeto 2](https://github.com/GiancarloNeves/Projeto2)
 
