@@ -49,7 +49,7 @@ Descrição breve do projeto nº2 (em breve).
 ## 📫 Como me encontrar
 
 * 🌐 Portfólio: [giancarloneves.github.io/Portfolio](https://giancarloneves.github.io/Portfolio/)
-* 📄 CV: [Download aqui](#) *(em breve)*
+* 📄 CV: [Download aqui]([#](https://giancarloneves.github.io/Portfolio/Curriculo.pdf))
 * 💼 LinkedIn: [linkedin.com/in/giancarlo-peixoto-7b6331380](https://www.linkedin.com/in/giancarlo-peixoto-7b6331380/)
 
 ---
