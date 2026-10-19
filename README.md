@@ -18,25 +18,11 @@ I’m currently seeking **internship opportunities only**. These areas reflect t
 
 **Programação e desenvolvimento · Programming and development**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?logo=microsoftsqlserver&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-**Ferramentas · Tools**
+**Ferramentas e Análise de Dados · Tools and Data Analytics**
 
-![Debian](https://img.shields.io/badge/Linux%20Debian-A81D33?logo=debian&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
-
-## Projetos em destaque · Featured projects
-
-### [Conecta 4](https://giancarloneves.github.io/conecta4/)
-
-**PT:** Jogo interativo desenvolvido em React, com animações, diferentes modos de jogo e partidas contra o computador. Explore o [projeto online](https://giancarloneves.github.io/conecta4/).
-
-**EN:** An interactive React game featuring animations, multiple game modes, and matches against the computer. [Play it online](https://giancarloneves.github.io/conecta4/).
-
-### [Quiz Interativo](https://github.com/GiancarloNeves/quiz)
-
-**PT:** Quiz em C++ com registo de jogadores, perguntas embaralhadas, pontuações guardadas em ficheiro e classificação final.
-
-**EN:** A C++ quiz featuring player registration, shuffled questions, file-based score saving, and a scoreboard.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white) ![Debian](https://img.shields.io/badge/Linux%20Debian-A81D33?logo=debian&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?logo=mathworks&logoColor=white) ![NetLogo](https://img.shields.io/badge/NetLogo-000000?logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
 
 ## Contacto · Contact
 
