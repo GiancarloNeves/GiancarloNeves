@@ -27,5 +27,5 @@ I’m currently seeking **internship opportunities only**. These areas reflect t
 ## Contacto · Contact
 
 - **Portfólio · Portfolio:** [giancarloneves.github.io/Portfolio](https://giancarloneves.github.io/Portfolio/)
-- **CV:** [Ver currículo (Português)](https://giancarloneves.github.io/Portfolio/Curriculo.pdf) / [View CV (English)](https://github.com/GiancarloNeves/Portfolio/blob/main/cv_en.pdf)
+- **CV:** [Ver currículo (Português)](https://giancarloneves.github.io/Portfolio/cv_pt.pdf) / [View CV (English)](https://giancarloneves.github.io/Portfolio/cv_en.pdf)
 - **LinkedIn:** [Giancarlo Peixoto](https://www.linkedin.com/in/giancarlo-peixoto-7b6331380/)
